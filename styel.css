@@ -188,7 +188,7 @@ color: white;
 }
 @media (max-width:500px){
 .footer,.form input{
-Display:flex;
-Flex-direction:column;
+display: flex;
+flex-direction: column;
 }
 }
