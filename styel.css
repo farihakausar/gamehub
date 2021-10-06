@@ -209,14 +209,15 @@ grid-template-columns:1fr;}
 display:flex;
 flex-direction:column;}
 oo i{
-    font-size: 30px;
+    font-size: 13px;
     color: white;
     background-color: black;
-    width: 31px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     padding: 9px 4px;
-    margin-top: 3px;
     clip-path: circle();
-    margin:7px 7px;
+    margin:7px 2px;
 }
+.navbar logo,.navbar list,.navbar btn-red{
+text-align:center;}
 }
