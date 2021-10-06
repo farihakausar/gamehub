@@ -230,7 +230,8 @@ display:flex;
 flex-direction:column;
 padding:20px 10px;}
 .para img{
-width:300px;}
+width:300px;
+Margin-top:10px;}
 .images{
 display:flex;
 flex-direction:column;
