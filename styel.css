@@ -247,4 +247,7 @@ Margin:0 10px;
 }
 .images .box i{
 Margin:0 10px;}
+.inaguration{
+Display: flex;
+Flex-direction:column;
 }
