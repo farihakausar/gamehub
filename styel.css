@@ -205,4 +205,18 @@ flex-direction:column;}
 .pics{
 display:grid;
 grid-template-columns:1fr;}
+.list{
+display:flex;
+flex-direction:column;}
+oo i{
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    width: 31px;
+    height: 30px;
+    padding: 9px 4px;
+    margin-top: 3px;
+    clip-path: circle();
+    margin:7px 7px;
+}
 }
