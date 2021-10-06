@@ -197,4 +197,9 @@ display :grid;
 grid-template-columns:1fr;}
 .form{
 padding:0px 15px;}
+.mainheader{
+display:none;}
+.navbar .list{
+display:flex;
+flex-direction:column;}
 }
