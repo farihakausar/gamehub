@@ -204,7 +204,8 @@ display:flex;
 flex-direction:column;}
 .pics{
 display:grid;
-grid-template-columns:1fr;}
+grid-template-columns:1fr;
+padding:7px;}
 .list{
 display:flex;
 flex-direction:column;}
