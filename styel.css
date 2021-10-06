@@ -222,8 +222,7 @@ oo i{
 .navbar .logo,.navbar .list{
 text-align:center;}
 .navbar .btn-red{
-margin:20px 30px 20px 30px;
-text-align:center;}
+margin:20px 30px 20px 30px;}
 .para,.our{
 display:flex;
 flex-direction:column;
