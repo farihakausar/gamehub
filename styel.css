@@ -130,7 +130,12 @@ Margin:0 7px;}
 .section{
     padding: 70px;
 }
-
+.bg-black{
+Background-color:black;
+Color:white;}
+.bg-white{
+Color:red;
+Background-color:white;}
 .border{
     border: 9px solid lightgray;
 }
