@@ -187,8 +187,12 @@ color: white;
     flex-wrap: wrap;
 }
 @media (max-width:768px){
-.footer,.form input{
+.footer{
 display: flex;
 flex-direction: column;
+padding:15px 15px;
 }
+.form input,.form textarea{
+display :flex;
+flex-direction:column;}
 }
