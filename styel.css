@@ -74,6 +74,9 @@ div .form input,textarea{
 div .form input:focus,textarea:focus{
    border: none;
 }
+.event{
+Display:flex;
+Flex-direction:row;}
   .footer{
     background-color: rgb(196, 31, 13);
     color: white;
@@ -185,7 +188,11 @@ Background-color:red;}
 }
 .box1 {
 Border-radius:5px;
-Padding:7px;
+Padding:20px;
+Width:50px;
+}
+.flex1{
+Display: flex;
 }
 @media (max-width:768px){
 .footer{
