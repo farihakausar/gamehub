@@ -220,4 +220,6 @@ oo i{
 }
 .navbar logo,.navbar list,.navbar btn-red{
 text-align:center;}
+.navbar btn-red{
+margin-bottom:10px;}
 }
