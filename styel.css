@@ -223,4 +223,7 @@ oo i{
 text-align:center;}
 .navbar btn-red{
 margin-bottom:10px;}
+.para,.our{
+display:flex;
+flex-direction:column;}
 }
