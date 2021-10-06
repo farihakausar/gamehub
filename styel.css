@@ -165,9 +165,10 @@ justify-content: space-between;
 color: white;
 }
 .btn-white{
-Border:1px solid white;
+Border:2px solid white;
 Color:white;
-Padding:10px 15px;}
+Padding:10px 15px;
+Background-color:red;}
 
 .oo i{
     font-size: 20px;
@@ -179,24 +180,12 @@ Padding:10px 15px;}
     clip-path: circle();
     margin:7px 15px;
 }
-.event{
-    display: flex;
-    justify-content: space-between;
-    position: relative;
-}
-.event .left:after{
-    position: absolute;
-    content: "";
-    border-left: 2px solid purple;
-}
 .start{
     margin-top: 0;
 }
-.event{
-    margin: 20px;
-    padding: 30px;
-    display: flex;
-    flex-wrap: wrap;
+.box1 {
+Border-radius:5px;
+Padding:7px;
 }
 @media (max-width:768px){
 .footer{
