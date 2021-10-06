@@ -18,7 +18,7 @@ ul li a:hover,a:active{
     color: rgb(196, 31, 13);
 }
 .header{
-    background: url("/images/mainimg.jpg") no-repeat center center/cover;
+    background: url("images/mainimg.jpg") no-repeat center center/cover;
     height: 600px;
 }
 .links{
