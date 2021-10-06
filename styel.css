@@ -57,6 +57,8 @@ div .map{
 .light{
     color: lightgray;
 }
+.para img{
+Width:400px;}
 .icons i{
  padding-left: 40px;
 }
@@ -227,4 +229,10 @@ margin:20px 60px 20px 30px;}
 display:flex;
 flex-direction:column;
 padding:20px 10px;}
+.para img{
+width:300px;}
+.images{
+display:flex;
+flex-direction:column;
+Padding:20px 10px;}
 }
