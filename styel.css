@@ -186,7 +186,7 @@ color: white;
     display: flex;
     flex-wrap: wrap;
 }
-@media (max-width:500px){
+@media (max-width:768px){
 .footer,.form input{
 display: flex;
 flex-direction: column;
