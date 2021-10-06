@@ -186,3 +186,9 @@ color: white;
     display: flex;
     flex-wrap: wrap;
 }
+@mediaquery (max-width:500px){
+.footer,.form input{
+Display:flex;
+Flex-direction:column;
+}
+}
