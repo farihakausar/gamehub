@@ -135,7 +135,8 @@ Margin:0 7px;}
 }
 .bg-black{
 Background-color:black;
-Color:white;}
+Color:white;
+Padding:7px 7px;}
 .bg-white{
 Color:red;
 Background-color:white;
@@ -171,9 +172,10 @@ color: white;
 .btn-white{
 Border:2px solid white;
 Color:white;
-Padding:10px 15px;
+Padding:5px 15px;
 Background-color:red;
-Border-radius:9px;}
+Border-radius:9px;
+Width:50%;}
 
 .oo i{
     font-size: 20px;
