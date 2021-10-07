@@ -51,16 +51,23 @@ ul li a{
 .last>*:first-child{
     padding:150px 70px;
 }
-div .map{
-    width: 100%;
-}
+.back-light {
+Background-color:#D3D3D3;}
 .light{
     color: lightgray;
 }
+.flex2{
+Display:flex;
+Flex-direction:row;
+Flex-wrap: wrap;
+Padding:50px;}
 .para img{
 Width:400px;}
 .icons i{
  padding-left: 40px;
+}
+.box2{
+Background-color:white;
 }
 .text{
     color: white;
@@ -114,7 +121,7 @@ border: 1px solid rgb(196, 31, 13);
     padding:  100px 300px;
 }
 .bg-light {
-Background-color:light grey;
+Background-color:#D3D3D3;
 Color:black;
 Display:flex;
 Justify-content:space-between;
