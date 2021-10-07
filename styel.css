@@ -214,6 +214,21 @@ Border-radius:10px;
 Display:grid;
 Grid-template-columns:1fr 2fr;
 Gap:5px;
+}.events{
+    padding: 50px;
+}
+.text{
+    color: black;
+
+}
+.our-event{
+display: flex;
+justify-content:space-between;
+flex-direction: row;
+padding: 40px;
+}
+.our-event img{
+    width: 500px;
 }
 @media (max-width:768px){
 .footer{
