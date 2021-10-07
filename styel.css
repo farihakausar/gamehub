@@ -78,16 +78,7 @@ div .form input:focus,textarea:focus{
 Display:flex;
 Flex-direction:row;
 Margin-left:7px;
-Position:relative;
 }
-.event div{
-Position:abolsute;
-Content:"";
-Top:0px;left:5px;
-Right:0;
-Color:grey;
-Width:1px;
-Height:7px;}
   .footer{
     background-color: rgb(196, 31, 13);
     color: white;
@@ -147,11 +138,14 @@ Margin:0 7px;}
 .bg-black{
 Background-color:black;
 Color:white;
-Padding:7px 7px;}
+Padding:7px 7px;
+Border-radius:5px;
+Border:1px solid white;
+}
 .bg-white{
 Color:red;
 Background-color:white;
-Border:1px solid black;
+Border:1px solid white;
 Font-size:20px;
 Border-radius:5px;}
 .border{
@@ -181,6 +175,7 @@ flex-wrap: wrap;
     display: flex;
 justify-content: space-between;
 color: white;
+Height:auto;
 }
 .btn-white{
 Border:2px solid white;
@@ -188,8 +183,7 @@ Color:white;
 Padding:5px 10px;
 Background-color:red;
 Border-radius:9px;
-Font-size:20px;
-Width:50%;}
+Font-size:20px;}
 
 .oo i{
     font-size: 20px;
