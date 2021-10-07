@@ -137,11 +137,13 @@ Margin:0 7px;}
 }
 .white{
 Color:white;
-Padding-top:70px;
-Line-height:20px;}
+Padding-top:140px;
+Line-height:2.5rem;}
 .border-red{
 Color:white;
-Border:1px solid red;}
+Background-color:auto;
+Border:1px solid red;
+Margin-top:50px;}
 .mainheader{
     background-color: brown;
     color: white;
@@ -272,7 +274,7 @@ oo i{
 .navbar .logo,.navbar .list{
 text-align:center;}
 .navbar .btn-red{
-margin:20px 70px 20px 70px;}
+margin:20px 80px 20px 0px;}
 .para,.our{
 display:flex;
 flex-direction:column;
