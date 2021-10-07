@@ -118,7 +118,9 @@ Background-color:light grey;
 Color:black;
 Display:flex;
 Justify-content:space-between;
-Padding:12px 20px;}
+Padding:12px 50px;}
+.bg-light h4,.bg-light p{
+Text-align:center;}
 .images .box{
     box-shadow: 0px 0px 10px 5px rgba(204, 200, 200, 0.611);
     padding: 40px;
