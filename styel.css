@@ -71,6 +71,7 @@ Width:400px;}
 .box2{
 Background-color:white;
 Padding:30px;
+Height:500px;
 }
 .text{
     color: white;
@@ -316,6 +317,8 @@ Padding:5px 7px;
 Flex-direction:column;}
 .flex2{
 Flex-direction: column;
+.attach{
+Flex-direction:column;}
 .attach{
 Flex-direction:column;}
 }
