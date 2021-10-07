@@ -17,7 +17,7 @@ ul li a{
 ul li a:hover,a:active{
     color: rgb(196, 31, 13);
 }
-Div .map{
+Div iframe{
 Width:100%;}
 .header{
     background: url("images/mainimg.jpg") no-repeat center center/cover;
@@ -305,8 +305,8 @@ Margin:0 20px;}
 .images .box {
 Margin:0 10px;
 }
-Div .map{
-Width:768px;}
+Div iframe{
+Width:598px;}
 .images .box i{
 Margin:0 10px;}
 .inaguration{
@@ -317,8 +317,6 @@ Padding:5px 7px;
 Flex-direction:column;}
 .flex2{
 Flex-direction: column;
-.attach{
-Flex-direction:column;}
 .attach{
 Flex-direction:column;}
 .our-event{
