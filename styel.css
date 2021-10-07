@@ -135,6 +135,13 @@ Margin:0 7px;}
 .center{
     text-align: center;
 }
+.white{
+Color:white;
+Padding-top:70px;
+Line-height:20px;}
+.border-red{
+Color:white;
+Border:1px solid red;}
 .mainheader{
     background-color: brown;
     color: white;
@@ -159,6 +166,9 @@ Border-radius:5px;}
 .border{
     border: 9px solid lightgray;
 }
+.attach{
+Background-image:url("");
+Background-attachment: fixed;}
 .flex{
     display: flex;
 justify-content: space-between;
