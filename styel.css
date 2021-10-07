@@ -172,6 +172,7 @@ Border-radius:5px;}
 .attach{
 Background-image:url("images/2ndlogo.jpg");
 Background-attachment: fixed;
+Padding:40px;
 Color:black;
 Background-size:cover;
 Background-position:center;}
