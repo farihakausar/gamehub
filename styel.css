@@ -169,8 +169,9 @@ Border-radius:5px;}
     border: 9px solid lightgray;
 }
 .attach{
-Background-image:url("");
-Background-attachment: fixed;}
+Background-image:url("images/2ndlogo.jpg");
+Background-attachment: fixed;
+Color:white;}
 .flex{
     display: flex;
 justify-content: space-between;
