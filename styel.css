@@ -138,7 +138,8 @@ Background-color:black;
 Color:white;}
 .bg-white{
 Color:red;
-Background-color:white;}
+Background-color:white;
+Border-radius:5px;}
 .border{
     border: 9px solid lightgray;
 }
@@ -171,7 +172,8 @@ color: white;
 Border:2px solid white;
 Color:white;
 Padding:10px 15px;
-Background-color:red;}
+Background-color:red;
+Border-radius:9px;}
 
 .oo i{
     font-size: 20px;
@@ -188,11 +190,11 @@ Background-color:red;}
 }
 .box1 {
 Border-radius:5px;
-Padding:20px;
-Width:50px;
 }
 .flex1{
-Display: flex;
+Display:grid;
+Grid-template-columns:1fr 2fr;
+Gap:5px;
 }
 @media (max-width:768px){
 .footer{
