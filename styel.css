@@ -318,9 +318,10 @@ Flex-direction:column;}
 .flex2{
 Flex-direction: column;
 .attach{
-Flex-direction:column;}
+Display:grid;
+Grid-template-columns:1fr;}
 .our-event{
-display: flex;
-justify-content:space-between;
-flex-direction:column;}
+Display:grid;
+Grid-template-columns:1fr;
+}
 }
