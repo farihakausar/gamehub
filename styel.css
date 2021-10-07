@@ -217,10 +217,6 @@ Gap:5px;
 }.events{
     padding: 50px;
 }
-.text{
-    color: black;
-
-}
 .our-event{
 display: flex;
 justify-content:space-between;
