@@ -167,15 +167,12 @@ padding: 20px;
 Background-color:black;
 Color:white;
 Padding:7px 7px;
-Border-radius:5px;
-Border:1px solid black;
 }
 .bg-white{
 Color:red;
 Background-color:white;
-Border:1px solid white;
-Font-size:20px;
-Border-radius:5px;}
+
+Font-size:20px;}
 .border{
     border: 9px solid lightgray;
 }
