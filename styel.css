@@ -321,4 +321,8 @@ Flex-direction: column;
 Flex-direction:column;}
 .attach{
 Flex-direction:column;}
+.our-event{
+display: flex;
+justify-content:space-between;
+flex-direction:column;}
 }
