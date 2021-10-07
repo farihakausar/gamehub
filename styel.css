@@ -17,6 +17,8 @@ ul li a{
 ul li a:hover,a:active{
     color: rgb(196, 31, 13);
 }
+Div .map{
+Width:100%;}
 .header{
     background: url("images/mainimg.jpg") no-repeat center center/cover;
     height: 600px;
@@ -305,6 +307,8 @@ Margin:0 20px;}
 .images .box {
 Margin:0 10px;
 }
+Div .map{
+Width:768px;}
 .images .box i{
 Margin:0 10px;}
 .inaguration{
