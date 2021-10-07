@@ -141,9 +141,10 @@ Padding-top:140px;
 Line-height:2.5rem;}
 .border-red{
 Color:white;
-Background-color:auto;
 Border:1px solid red;
-Margin-top:50px;}
+Margin-top:50px;
+padding: 20px;
+}
 .mainheader{
     background-color: brown;
     color: white;
@@ -171,7 +172,9 @@ Border-radius:5px;}
 .attach{
 Background-image:url("images/2ndlogo.jpg");
 Background-attachment: fixed;
-Color:white;}
+Color:black;
+Background-size:cover;
+Background-position:center;}
 .flex{
     display: flex;
 justify-content: space-between;
@@ -275,7 +278,7 @@ oo i{
 .navbar .logo,.navbar .list{
 text-align:center;}
 .navbar .btn-red{
-margin:20px 80px 20px 0px;}
+margin:20px auto;}
 .para,.our{
 display:flex;
 flex-direction:column;
