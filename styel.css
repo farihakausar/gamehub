@@ -17,8 +17,6 @@ ul li a{
 ul li a:hover,a:active{
     color: rgb(196, 31, 13);
 }
-Div iframe{
-Width:100%;}
 .header{
     background: url("images/mainimg.jpg") no-repeat center center/cover;
     height: 600px;
@@ -234,8 +232,9 @@ Font-size:20px;}
 .start{
     margin-top: 0;
 }
-.box1{
+.box1 h4,.box p{
 Border-radius:10px;
+Border:none;
 }
 .flex1{
 Display:grid;
@@ -253,6 +252,10 @@ padding: 40px;
 .our-event img{
     width: 500px;
 }
+.hmm{
+Display:flex;
+Flex-direction:row;
+Justify-content: space-between;}
 @media (max-width:768px){
 .footer{
 display: flex;
