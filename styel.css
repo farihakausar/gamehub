@@ -87,6 +87,7 @@ div .form input:focus,textarea:focus{
 Display:flex;
 Flex-direction:column;
 Margin-left:7px;
+Padding-right:10px;
 Border-right:1px solid black;
 }
   .footer{
@@ -215,7 +216,7 @@ Height:auto;
 Border:2px solid white;
 Color:white;
 Padding:5px 20px;
-Margin:5px auto;
+Margin:7px auto;
 Background-color:red;
 Border-radius:9px;
 Font-size:20px;}
