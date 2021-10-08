@@ -244,11 +244,10 @@ Gap:5px;
 .our-event{
 display: flex;
 justify-content:space-between;
-flex-direction: row;
 padding: 40px;
 }
 .our-event img{
-    width: 500px;
+    width: 450px;
 }
 .hmm{
 Display:flex;
@@ -320,8 +319,8 @@ Flex-direction:column;}
 Flex-direction: column;
 }
 .our-event{
-Display:grid;
-Grid-template-columns:1fr;
+Display:flex;
+Flex-direction:column;}
 .map{
 Width:600px;
 Height:450px;
