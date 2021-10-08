@@ -87,6 +87,7 @@ div .form input:focus,textarea:focus{
 Display:flex;
 Flex-direction:column;
 Margin-left:7px;
+Border-right:1px solid black;
 }
   .footer{
     background-color: rgb(196, 31, 13);
