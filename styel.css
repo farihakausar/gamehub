@@ -255,6 +255,9 @@ Flex-direction:row;
 Justify-content: space-between;}
 .map{
 Width:100%;}
+.box1{
+Margin:0 7px;
+Padding:0 9px;}
 @media (max-width:768px){
 .footer{
 display: flex;
