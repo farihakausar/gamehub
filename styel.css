@@ -69,7 +69,6 @@ Width:400px;}
 .box2{
 Background-color:white;
 Padding:30px;
-Height:500px;
 }
 .text{
     color: white;
@@ -88,7 +87,6 @@ Display:flex;
 Flex-direction:column;
 Margin-left:7px;
 Padding-right:10px;
-Border-right:1px solid black;
 }
   .footer{
     background-color: rgb(196, 31, 13);
@@ -329,5 +327,5 @@ Width:600px;
 Height:450px;
 }
 .event{
-Border-right:none;}
+Border-right:1px solid black;}
 }
