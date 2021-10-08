@@ -254,8 +254,7 @@ padding: 40px;
 Display:flex;
 Flex-direction:row;
 Justify-content: space-between;}
-.map{
-Width:100%;}
+
 .box1{
 Margin:0 7px;
 Padding:0 9px;}
@@ -325,10 +324,6 @@ Flex-direction: column;
 .our-event{
 Display:flex;
 Flex-direction:column;}
-.map{
-Width:600px;
-Height:450px;
-}
 .event{
 Border-right:1px solid black;}
 .our-event img{
