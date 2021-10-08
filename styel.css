@@ -326,5 +326,8 @@ Grid-template-columns:1fr;}
 .our-event{
 Display:grid;
 Grid-template-columns:1fr;
+.map{
+Width:500px;
+Height:450px;
 }
 }
