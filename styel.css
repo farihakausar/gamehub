@@ -153,11 +153,14 @@ Color:white;
 Border:1px solid red;
 Margin-top:50px;
 padding: 20px;
+Background-color: black;
 }
 .mainheader{
     background-color: brown;
     color: white;
     padding: 20px;
+Display:flex;
+Justify-content: space-between;
 }
 .section{
     padding: 70px;
