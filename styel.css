@@ -183,8 +183,6 @@ Background-attachment: fixed;
 Padding:40px;
 Color:black;
 Background-size:cover;
-Display:flex;
-Flex-direction:row;
 Background-position:center;}
 .flex{
     display: flex;
@@ -215,8 +213,8 @@ Height:auto;
 .btn-white{
 Border:2px solid white;
 Color:white;
-Padding:5px 20px;
-Margin:7px auto;
+Padding:5px auto;
+Margin-top:10px;
 Background-color:red;
 Border-radius:9px;
 Font-size:20px;}
@@ -258,6 +256,8 @@ padding: 40px;
 Display:flex;
 Flex-direction:row;
 Justify-content: space-between;}
+.map{
+Width:100%;}
 @media (max-width:768px){
 .footer{
 display: flex;
@@ -320,14 +320,14 @@ Padding:5px 7px;
 Flex-direction:column;}
 .flex2{
 Flex-direction: column;
-.attach{
-Display:flex;
-Flex-direction:column;}
+}
 .our-event{
 Display:grid;
 Grid-template-columns:1fr;
 .map{
-Width:500px;
+Width:600px;
 Height:450px;
 }
+.event{
+Border-right:none;}
 }
