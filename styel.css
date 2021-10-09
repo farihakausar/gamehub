@@ -237,11 +237,7 @@ Font-size:20px;}
 }
 .box1{
 Border-radius:10px;
-Border:1px solid ;
-}
-.box1 h4,.box1 p{
-Width:15px;
-Display: inline-block;}
+Border:1px solid;}
 .flex1{
 Display:grid;
 Grid-template-columns:1fr 2fr;
