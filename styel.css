@@ -235,9 +235,6 @@ Font-size:20px;}
 .start{
     margin-top: 0;
 }
-.box1{
-Border-radius:10px;
-Border:1px solid;}
 .flex1{
 Display:grid;
 Grid-template-columns:1fr 2fr;
@@ -261,6 +258,9 @@ Justify-content: space-between;}
 .box1{
 Margin:0 7px;
 Padding:0 9px;}
+.box1 h4,.box1 p{
+Border:1px solid;
+Border-raduis:7px;}
 @media (max-width:768px){
 .footer{
 display: flex;
