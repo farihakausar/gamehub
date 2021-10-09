@@ -237,7 +237,7 @@ Font-size:20px;}
 }
 .box1 h4,.box p{
 Border-radius:10px;
-Border:none;
+Border:1px solid ;
 }
 .flex1{
 Display:grid;
