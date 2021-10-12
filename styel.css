@@ -238,7 +238,11 @@ Font-size:20px;}
 Display:grid;
 Grid-template-columns:1fr 2fr;
 Gap:5px;
-}.events{
+}
+.box3{
+Width:200px;
+Padding:7px;
+border-radius:7px;}.events{
     padding: 50px;
 }
 .our-event{
