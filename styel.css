@@ -151,9 +151,9 @@ Padding-top:140px;
 Line-height:2.5rem;}
 .border-red{
 Color:white;
-Border:1px solid red;
-Margin-top:50px;
-padding:10px 20px;
+Border:2px solid red;
+Margin:50px auto;
+padding:10px 30px;
 }
 .mainheader{
     background-color: brown;
