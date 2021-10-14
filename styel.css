@@ -168,11 +168,14 @@ Justify-content: space-between;
 Background-color:black;
 Color:white;
 Padding:7px 7px;
+Border-bottom-left-radius:6px;
+Border-bottom-left-radius:6px;
 }
 .bg-white{
 Color:red;
 Background-color:white;
-
+Border-top-left-radius:6px;
+Border-top-right-radius:6px;
 Font-size:20px;}
 .border{
     border: 9px solid lightgray;
@@ -234,15 +237,9 @@ Font-size:20px;}
 .start{
     margin-top: 0;
 }
-.flex1{
-Display:grid;
-Grid-template-columns:1fr 2fr;
-Gap:5px;
-}
 .box3{
 Width:150px;
-Padding:7px;
-border-radius:7px;}.events{
+Padding:7px;}.events{
     padding: 50px;
 }
 .our-event{
