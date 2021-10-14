@@ -174,9 +174,11 @@ Border-bottom-right-radius:6px;
 .bg-white{
 Color:red;
 Background-color:white;
+Padding:7px 7px;
+
 Border-top-left-radius:6px;
 Border-top-right-radius:6px;
-Font-size:20px;}
+}
 .border{
     border: 9px solid lightgray;
 }
@@ -206,7 +208,9 @@ Width:100%;}
     padding: 10px;
     margin: 20px;
 }
-
+.flex1 .box3{
+Display:inline-block;
+Padding:5px;}
 .inaguration{
     background-color: red;
     padding: 50px;
