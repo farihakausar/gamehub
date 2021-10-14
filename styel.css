@@ -169,7 +169,7 @@ Background-color:black;
 Color:white;
 Padding:7px 7px;
 Border-bottom-left-radius:6px;
-Border-bottom-left-radius:6px;
+Border-bottom-right-radius:6px;
 }
 .bg-white{
 Color:red;
