@@ -59,7 +59,7 @@ Background-color:#D3D3D3;}
 }
 .flex1{
 Display:grid;
-Grid-template-columns:200px auto;}
+Grid-template-columns:100px auto;}
 .flex2{
 Display:flex;
 Flex-direction:row;
@@ -156,6 +156,7 @@ Line-height:2.5rem;}
 Border:2px solid red;
 Margin:50px 100px;
 padding:10px 50px;
+Background-color:auto;
 }
 .mainheader{
     background-color: brown;
