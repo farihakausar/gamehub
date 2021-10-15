@@ -217,7 +217,7 @@ Display:inline-block;
 Padding:5px;}
 .inaguration{
     background-color: red;
-    padding: 50px;
+    padding: 50px 25px;
     display: flex;
 justify-content: space-between;
 color: white;
