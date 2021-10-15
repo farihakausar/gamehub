@@ -57,6 +57,9 @@ Background-color:#D3D3D3;}
 .light{
     color: lightgray;
 }
+.flex1{
+Display:grid;
+Grid-template-columns:200px auto;}
 .flex2{
 Display:flex;
 Flex-direction:row;
