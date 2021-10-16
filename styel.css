@@ -154,7 +154,6 @@ Padding-top:140px;
 Line-height:2.5rem;}
 .border-red{
 Border:2px solid red;
-Margin:50px auto;
 padding:10px 50px;
 Background-color:auto;
 }
@@ -227,7 +226,6 @@ Height:auto;
 Border:2px solid white;
 Color:white;
 Padding:5px 40px;
-Margin:10px auto;
 Background-color:red;
 Border-radius:9px;
 Font-size:20px;}
